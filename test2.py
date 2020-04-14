@@ -2,7 +2,7 @@
 #By: Temitope Odulate
 #email: topeodulate@gmail.com
 
-#First I import random and strings as I need them for this program
+#First I import random and strings as I need them for this program.
 import random
 import string
 
