@@ -15,7 +15,7 @@ def get_info():
     return info
 
 
-#function to get 5 random characters
+#function to get 5 random characters....
 def random_password(info):
     character = string.ascii_lowercase
     length = 5
